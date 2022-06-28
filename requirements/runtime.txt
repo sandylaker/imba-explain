@@ -1,0 +1,14 @@
+albumentations
+captum
+matplotlib
+mmcv
+numpy
+opencv-python
+pandas
+pillow
+pytorch-ignite
+scipy
+tabulate
+timm
+torch
+tqdm

@@ -1,0 +1,7 @@
+codecov
+flake8
+isort
+mypy
+pytest
+pytest-cov
+yapf
